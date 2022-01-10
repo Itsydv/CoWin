@@ -1,7 +1,7 @@
 # CoWin
 Bot will check for Vaccine Slots Availability for upto upcoming 7 days.
 
-## How to use bot
+## How to deploy bot
 - Just clone the repo or download via download button.
 - install all the requirements using 'pip install -r requirements.txt' in cmd line/ terminal
 - configure the config.py present in cowin folder (fill all the info that is asked or declared to avoid any error)
